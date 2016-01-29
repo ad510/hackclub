@@ -47,7 +47,7 @@ on GitHub and GitHub will give you a URL that you can share with the world.
 2. Click the green **"+ New repository"** button
 3. Under **"Repository name"** write your `USERNAME.github.io` except instead of
    writing `USERNAME`, write your actual GitHub username. So if your username
-   is "alice1337", then you would write `alice1337.github.io`. You **have** to
+   is `alice1337`, then you would write `alice1337.github.io`. You **have** to
    name your repository this in order for the GitHub Pages functionality to work
    correctly (more on what this is later).
 4. Make sure that you did the previous step correctly.
