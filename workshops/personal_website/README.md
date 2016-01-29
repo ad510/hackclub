@@ -13,7 +13,7 @@ Open the [live demo][final_live_demo]. See the [final code][final_code].
 **On the way, you will:**
 
 - Begin to learn the programming languages **HTML** & **CSS**
-- Setup the coding tools, **GitHub**, **Cloud9**, **Slack** which  you will use
+- Setup the coding tools **GitHub**, **Cloud9**, **Slack**, which you will use
   throughout your time in Hack Club
 
 ## Part I: Setup
@@ -37,7 +37,7 @@ Hack Club.
 3. Open https://gh.hackclub.io in a new tab and star the project by clicking on
    the button that looks like this on the top right: ![](img/github_star.png)
 
-### 2) Create Your First GitHub repository
+### 2) Create Your First GitHub Repository
 
 GitHub allows us to **host** our website using a service called **GitHub
 Pages**. This means that we can put the files of your website
@@ -137,7 +137,7 @@ files**.
 > Notes:
 >
 > - Just like Microsoft Word Documents end in **`.doc`**, HTML files end in
-**`.html**`
+**`.html`**
 > - Your main HTML file has to be named **`index.html`**
 
 ### 2) Adding standard HTML template
@@ -183,8 +183,6 @@ that there are two sections in this template, the **`head`** and the **`body`**:
 - The **`head`** of the HTML document is where you set the settings for the page
   and include other code files you want on your website.
 
-
-
 ### 4) Opening the Website Preview
 
 Let's see what our website looks like so far:
@@ -212,8 +210,8 @@ That's why it's called a **"Live Preview"**
 ### 6) Adding a Description
 
 1. Underneath on a new line, write one short sentence about yourself. I love my
-job as a call center representative so I'm going to write `MVP hotline
-answerer`.
+   job as a call center representative so I'm going to write `MVP hotline
+   answerer`.
 
 > ![](img/html_add_description.gif)
 
@@ -235,14 +233,12 @@ what's called a **heading tag**, like so:
 **HTML tags**, like this heading tag, tell the computer how to interpret the
 text in between the tags.
 
-
-
 1. Make your name look like a heading by surrounding your name with an `h1`
    tag.
 
     > Note: In Cloud9, as soon as you write  **`<h1>`**, it knows you will
-    eventually want a **`<h1>`**, it just adds it for you. This is known
-    as **autocomplete**.
+    > eventually want a **`<h1>`**, it just adds it for you. This is known
+    > as **autocomplete**.
 
 
 > ![](img/html_format_name_as_h1_tag.gif)
@@ -258,7 +254,7 @@ heading, it makes your name big and bold.
 
 ### 5) Formatting the Description with a Paragraph Tag
 
-Similarly to how we told the browser to treat **`Drake Graham`** as a header, I
+Similarly to how we told the browser to treat **`Drizzy Drake`** as a header, I
 want to tell the browser to treat **`MVP hotline answerer.`** as a paragraph.
 
 1. Put your description inside of a **paragraph tag** like so:
@@ -430,7 +426,7 @@ body {
 }
 ```
 
-would  say:
+would say:
 
 - **Select** every **`body` tag** on this HTML page and set the **alignment** of
   the **text** within the body tag to be **centered**
@@ -441,8 +437,8 @@ is written inside the body tag.
 And because everything is in the **body** tag, everything is centered.
 
 > You can Google ["CSS text align"]
-  (https://www.google.com/?gws_rd=ssl#q=css+text+align) to see what other
-  alignment options are available besides **`center`**
+> (https://www.google.com/?gws_rd=ssl#q=css+text+align) to see what other
+> alignment options are available besides **`center`**
 
 ### 5) Changing the Font
 
@@ -519,8 +515,8 @@ Instead we can send our updates to GitHub.
 
 ![](img/celebrate_rush_hour.gif)
 
-Yes! Your website is now public on the internet and will stay!
-Feel free to share this with your friends!
+Yes! Your website is now public on the internet and will stay! Feel free to
+share this with your friends!
 
 ## Part VI: Sharing with the Community
 
@@ -533,6 +529,7 @@ Now that you have finished building your website
 3. Post the link to your website
   - In your club's channel
 4. Post it in the [Ship It](https://shipit.hackclub.io) gallery!
+
 [slack]: ../../SLACK.md
 
 ## Part VII: Hacking
@@ -568,8 +565,8 @@ some inspiration!
 Here are some additional resources that you can use to learn more about HTML &
 CSS.
 
-| Resource                                                                          | Pros                                                                                     | Cons                                                                            |
+| Resource                                                                | Pros                                                                                     | Cons                                                                            |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| [HTML&nbsp;Dog](http://www.htmldog.com/guides/html/beginner/)                     | Very beginner focused. If you're not sure which one of these to choose, choose this one. | Isn't too rich in content.                                                      |
-| [Free&nbsp;Code&nbsp;Camp](http://www.freecodecamp.com/map)                       | Interactive and very methodical.                                                         | Not made for you to learn to make something that you want to show your friends. |
-| [Team&nbsp;Tree&nbsp;House](https://teamtreehouse.com/library/html/introduction/) | Their videos are extremely comprehensive an thorough                                     | It takes a _very_ long time to get through and are very passive.                |
+| [HTML Dog](http://www.htmldog.com/guides/html/beginner/)                | Very beginner focused. If you're not sure which one of these to choose, choose this one. | Isn't too rich in content.                                                      |
+| [Free Code Camp](http://www.freecodecamp.com/map)                       | Interactive and very methodical.                                                         | Not made for you to learn to make something that you want to show your friends. |
+| [Team Tree House](https://teamtreehouse.com/library/html/introduction/) | Their videos are extremely comprehensive an thorough                                     | It takes a _very_ long time to get through and are very passive.                |
