@@ -5,10 +5,10 @@ It will look something like this:
 
 ![](img/final_screenshot.png)
 
-Open the [live demo][final-live-demo]. See the [final code][final-code].
+Open the [live demo][final_live_demo]. See the [final code][final_code].
 
-[final-live-demo]: https://cdn.rawgit.com/anonymous/7a5a6cc614052c8c810f/raw/9419c5a5a4a871da091a49844ffbc46f434c01c8/index.html
-[final-code]: http://jsbin.com/gist/7a5a6cc614052c8c810f?html,output
+[final_live_demo]: https://cdn.rawgit.com/anonymous/7a5a6cc614052c8c810f/raw/9419c5a5a4a871da091a49844ffbc46f434c01c8/index.html
+[final_code]: http://jsbin.com/gist/7a5a6cc614052c8c810f?html,output
 
 **On the way, you will:**
 
